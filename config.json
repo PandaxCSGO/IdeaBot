@@ -1,19 +1,19 @@
 {
-	"status" : "dnd",
-	"token" : "Njc1MTQwOTgxNDEwMjM0MzY4.XpoeBw.52wMcBw5sJXn_bjesZKw0sh6oA0",
+	"status" : "dnd/online/idle/invisible",
+	"token" : "YourTokenBot",
 
-	"idchannel" : "700820553803497523",
+	"idchannel" : "YouIDChannelForIdea",
 	"reaction1" : "✅",
 	"reaction2" : "❌",
 
-	"host" : "164.132.125.4",
-	"user" : "bybproject",
-	"psw" : "i34Hk4q~",
-	"db" : "bybproject",
+	"host" : "",
+	"user" : "",
+	"psw" : "",
+	"db" : "",
 	
-	"table" : "idées",
+	"table" : "idees",
 	"colone_pseudo" : "pseudo",
-	"colone_idea" : "idée",
+	"colone_idea" : "idee",
 	"colone_date" : "date",
 
 	"validation_time" : "15" 
