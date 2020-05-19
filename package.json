@@ -1,0 +1,17 @@
+{
+  "name": "CraftMyWebsite-Idees",
+  "version": "1.0.0",
+  "description": "CMW Idées",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "PandaxCSGO",
+  "license": "CC-BY-4.0"
+}

@@ -1,0 +1,16 @@
+{
+	"token" : "",
+
+	"idchannel" : "698890867699744818",
+	"reaction1" : "✅",
+	"reaction2" : "❌",
+
+	"host" : "",
+	"user" : "",
+	"psw" : "",
+	"db" : "",
+	
+	"table" : "idees",
+	"colone1" : "pseudo",
+	"colone2" : "idee"
+}
