@@ -1,5 +1,5 @@
 {
-	"precense_status" : "WATCHING",
-	"precense_text" : "regarde vos idées",
-	"precense_url" : "https://twitch.tv/CraftMyWebsite"
+	"precense_status" : "WATCHING/STREAMING/PLAYING/",
+	"precense_text" : "Look your Idea",
+	"precense_url" : "https://twitch.tv/BYBEsports (if precense_status is STREAMING, and just Link no text)"
 }
