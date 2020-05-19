@@ -1,7 +1,7 @@
 {
-	"token" : "",
+	"token" : "YourBotToken",
 
-	"idchannel" : "698890867699744818",
+	"idchannel" : "TheIDofYouChannelIdea",
 	"reaction1" : "✅",
 	"reaction2" : "❌",
 
