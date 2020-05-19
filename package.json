@@ -1,7 +1,7 @@
 {
-  "name": "CraftMyWebsite-Idees",
+  "name": "IdeaBot",
   "version": "1.0.0",
-  "description": "CMW Idées",
+  "description": "Idea Bot for discord",
   "main": "index.js",
   "dependencies": {
     "discord.js": "^11.6.4",
@@ -9,9 +9,17 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
   "keywords": [],
   "author": "PandaxCSGO",
-  "license": "CC-BY-4.0"
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PandaxCSGO/IdeaBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PandaxCSGO/IdeaBot/issues"
+  },
+  "homepage": "https://github.com/PandaxCSGO/IdeaBot#readme",
+  "license": "GNU General Public License v3.0"
 }
