@@ -4,6 +4,7 @@ Just send an mp to your bot to send your idea to the channel predefined in confi
 ## Getting Started
 
 * [Video to config bot]() - Soon
+* [Wiki]() - Soon
 
 ## Built With
 
