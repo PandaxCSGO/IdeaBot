@@ -1,5 +1,5 @@
 {
-	"status" : "STREAMING",
-	"precense" : "regarde vos idées",
-	"precense_url" : "https://twitch.tv/CraftMyWebsite"
+	"status" : "STREAMING/WATCHING/ONLINE/INVISIBLE/DND",
+	"precense" : "I look your idea",
+	"precense_url" : "https://twitch.tv/BYBEsports (if status is STREAMING)"
 }
