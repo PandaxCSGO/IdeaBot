@@ -3,8 +3,8 @@ Just send an mp to your bot to send your idea to the channel predefined in confi
 
 ## Getting Started
 
-* [Video to config bot]() - Soon
-* [Wiki]() - Soon
+* [Video to config bot](https://github.com/PandaxCSGO/IdeaBot) - Soon
+* [Wiki](https://github.com/PandaxCSGO/IdeaBot) - Soon
 
 ## Built With
 
