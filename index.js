@@ -53,9 +53,10 @@ client.on(`ready`, () => {
 client.on(`message`, message => {
   const dmchannel = client.channels.get(config.idchannel);
   const msgcontent = message.content.replace(/"/gi, `”`); // si nous ne faisons pas ça alors le bot crash si qql met `Mon idée c'est " blablabla`
+   const msgcontent2 = msgcontent.replace(/`/gi, `”`);
   var validation_time_ms = Math.round(config.validation_time * 1000)
 
-  let sql = `INSERT INTO `+config.table+` (`+config.colone_pseudo+`, `+config.colone_idea+`, `+config.colone_date+`) VALUES ("`+message.author.username+`", "`+msgcontent+`", "`+timestamp+`")`;
+  let sql = `INSERT INTO `+config.table+` (`+config.colone_pseudo+`, `+config.colone_idea+`, `+config.colone_date+`) VALUES ("`+message.author.username+`", "`+msgcontent2+`", "`+timestamp+`")`;
 
   if (message.channel.type === "dm") {
       if (message.author.id === client.user.id) return;
@@ -68,8 +69,8 @@ client.on(`message`, message => {
             errors: ['Oui'],
           })
         .then((collected) => {
-            message.channel.send(`Votre idée à été envoyer (${collected.first().content}):\n\`\`\`${msgcontent}\`\`\``);
-            dmchannel.send(`Idée reçue de ${message.author}, Merci de voter via `+config.reaction1+` ou `+config.reaction2+`.\n\`\`\`${msgcontent}\`\`\`\n\n`).then(function (message) {
+            message.channel.send(`Votre idée à été envoyer (${collected.first().content}):\n\`\`\`${msgcontent2}\`\`\``);
+            dmchannel.send(`Idée reçue de ${message.author}, Merci de voter via `+config.reaction1+` ou `+config.reaction2+`.\n\`\`\`${msgcontent2}\`\`\`\n\n`).then(function (message) {
               message.react(config.reaction1);
               setTimeout(function() {message.react(config.reaction2);}, 2000);
             }
