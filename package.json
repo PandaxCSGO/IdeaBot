@@ -7,9 +7,11 @@
     "discord.js": "^11.6.4",
     "mysql": "^2.18.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@discordjs/uws": "^10.149.0"
+  },
   "scripts": {
-    "test": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "PandaxCSGO",
@@ -21,5 +23,5 @@
     "url": "https://github.com/PandaxCSGO/IdeaBot/issues"
   },
   "homepage": "https://github.com/PandaxCSGO/IdeaBot#readme",
-  "license": "GNU General Public License v3.0"
+  "license": "GPL-3.0"
 }
