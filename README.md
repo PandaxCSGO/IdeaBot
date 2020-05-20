@@ -8,8 +8,8 @@ Just send an mp to your bot to send your idea to the channel predefined in confi
 
 ## Built With
 
-* [SublimeText](https://www.sublimetext.com/) - Used to code the whole project.
-* [Discord.js](https://discord.js.org/#/).
+* [SublimeText 3](https://www.sublimetext.com/) - Used to code the whole project.
+* [Discord.js (Version: 11.6.4)](https://discord.js.org/#/).
 
 ## Authors
 
