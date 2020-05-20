@@ -18,7 +18,7 @@ Just send an mp to your bot to send your idea to the channel predefined in confi
 
 ## Special Thanks
 
-* **CraftMy Website Staff** - *For using this bot* (Florentlife - Emilien52) - [Website](https://craftmywebsite.fr)
+* **CraftMyWebsite Staff (Florentlife - Emilien52)** - *For using this bot* - [Website](https://craftmywebsite.fr)
 * **PinglsDzn** - *Report bug* - [Github](https://github.com/PinglsDzn) / [Twitter](https://twitter.com/PinglsDzn)
 
 ## License
