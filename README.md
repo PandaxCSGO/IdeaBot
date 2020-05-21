@@ -18,9 +18,14 @@ Just send an mp to your bot to send your idea to the channel predefined in confi
 
 ## Special Thanks
 
-* **CraftMyWebsite Staff (Florentlife - [Emilien52](https://twitter.com/Emilien52_eng))** - *For using this bot* - [Website](https://craftmywebsite.fr)
-* **PinglsDzn** - *Report bug* - [Github](https://github.com/PinglsDzn) / [Twitter](https://twitter.com/PinglsDzn)
+* **CraftMyWebsite Staff (Florentlife - [Emilien52](https://twitter.com/Emilien52_eng))** - *For using this project* - [Website](https://craftmywebsite.fr)
+* **PinglsDzn** - *Report bug* - [Github](https://github.com/PinglsDzn) / [Twitter](https://twitter.com/PinglsDzn
 
 ## License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details
+
+## Server using this project
+
+* **CraftMyWebsite** [Website](https://craftmywebsite.fr) / [Discord](https://discord.gg/wMVAeug)
+* **Send me an email for add your server** {bybesports@gmail.com}
