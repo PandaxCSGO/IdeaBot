@@ -1,6 +1,8 @@
 # IdeaBot
 Just send an mp to your bot to send your idea to the channel predefined in config.json.
 
+* [Donation Paypal](https://paypal.me/bybesports)
+
 ## Getting Started
 
 * [Windows Configuration](https://github.com/PandaxCSGO/IdeaBot) - Soon
@@ -19,7 +21,7 @@ Just send an mp to your bot to send your idea to the channel predefined in confi
 
 ## Special Thanks
 
-* **CraftMyWebsite Staff (Florentlife - [Emilien52](https://twitter.com/Emilien52_eng))** - *For using this project* - [Website](https://craftmywebsite.fr)
+* **CraftMyWebsite Staff ([Florentlife](https://twitter.com/florentlife_) - [Emilien52](https://twitter.com/Emilien52_eng))** - *For using this project* - [Website](https://craftmywebsite.fr)
 * **PinglsDzn** - *Report bug* - [Github](https://github.com/PinglsDzn) / [Twitter](https://twitter.com/PinglsDzn)
 
 ## License
