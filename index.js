@@ -69,7 +69,7 @@ client.on(`message`, message => {
             time: validation_time_ms,
           })
         .then((collected) => {
-            message.channel.send(`Votre idée à été envoyé (${collected.first().content}):\n\`\`\`${ideacontent2}\`\`\``);
+            message.channel.send(`Votre idée a été envoyé (${collected.first().content}):\n\`\`\`${ideacontent2}\`\`\``);
             dmchannel.send(`Idée reçue de ${message.author}, Merci de voter via `+config.reaction1+` ou `+config.reaction2+`.\n\`\`\`${ideacontent2}\`\`\`\n\n`).then(function (message) {
               message.react(config.reaction1);
               setTimeout(function() {message.react(config.reaction2);}, 2000);
