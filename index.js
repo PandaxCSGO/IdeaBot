@@ -51,7 +51,7 @@ client.on(`ready`, () => {
 
 // Coeur du bot
 client.on(`message`, message => {
-  const dmchannel = client.channels.get(config.idchannel);
+  const dmchannel = client.channels.cache.get(config.idchannel);
   const ideacontent = message.content.replace(/"/gi, `”`); // si nous ne faisons pas ça alors le bot crash si qql met `Mon idée c'est " blablabla`
   const ideacontent2 = ideacontent.replace(/`/gi, `”`); // si nous ne faisons pas ça alors le bot crash si qql met `Mon idée c'est " blablabla`
   const pseudo = message.author.username.replace(/"/gi, `”`);
