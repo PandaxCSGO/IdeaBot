@@ -3,15 +3,10 @@ Just send an mp to your bot to send your idea to the channel predefined in confi
 
 * [Donation Paypal](https://paypal.me/bybesports)
 
-## Getting Started
-
-* [Windows Configuration](https://github.com/PandaxCSGO/IdeaBot) - Soon
-* [Wiki](https://github.com/PandaxCSGO/IdeaBot) - Soon
-
 ## Built With
 
 * [SublimeText 3](https://www.sublimetext.com/) - Used to code the whole project.
-* [Discord.js (Version: 11.6.4)](https://discord.js.org/#/).
+* [Discord.js (Version: latest)](https://discord.js.org/#/).
 * [NodeJS (Version: 12.16.1)](https://nodejs.org/en/).
 
 ## Authors
