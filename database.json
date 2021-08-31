@@ -1,0 +1,12 @@
+{
+
+	"hostname" : "YourDBHostname",
+	"username" : "YourDBUsername",
+	"password" : "YourDBPassword",
+	"database" : "YourDBName",
+
+	"table" : "ideabot",
+	"column_username" : "username",
+	"column_idea" : "idea",
+	"column_date" : "date"
+}
