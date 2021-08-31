@@ -6,15 +6,5 @@
 	"reaction1" : "✅",
 	"reaction2" : "❌",
 
-	"host" : "",
-	"user" : "",
-	"psw" : "",
-	"db" : "",
-	
-	"table" : "idees",
-	"colone_pseudo" : "pseudo",
-	"colone_idea" : "idee",
-	"colone_date" : "date",
-
 	"validation_time" : "15" 
 }
