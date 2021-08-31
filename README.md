@@ -56,7 +56,7 @@ Modify the `bdd.json` file to add your database information
 Install pm2:
 
 ```console
-$ npm install pm2
+$ npm install pm2 -g
 ```
 
 Finally, start Modmail.
